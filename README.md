@@ -15,5 +15,7 @@
     <b><a href= "https://drive.google.com/file/d/1ojQU-gWkrKmp3BXqwSQlVc2du6T9pAs6/view">ביצוע חוזר [7 עד 9]</a><br>
   </p>
   <h2>משובים</h3>
-  <p>משוב א 1 - 7</p>
+  <p>
+    <b><a href ="https://docs.google.com/document/d/1cbCG3wZp6EKVxtQ5FxSQyHg1pXAEW8ev6ktQdRbKPrc/edit">משוב כל פרק א</a></b>
+  </p>
 </p>
