@@ -3,7 +3,7 @@
 <p style="text-align:center;"> 
   <h3>פרק א</h3>
   <h2>קריאה</h2>
-<p style="text-align:center;">
+<p>
   <a href= "https://drive.google.com/file/d/1D_T6rEhG6G54UmRRnLSxk5hWjCfKHCau/view">כתיבה למשתמש</a>
 </p>
   <h2>משימות</h2>
