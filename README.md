@@ -31,7 +31,12 @@
   <p>
     <b><a href="https://docs.google.com/presentation/d/168gNhrAh4C9Apeaa5NFdwyVR24vIFfmaV_iyw531zRk/edit#slide=id.p">כתיבת שיטות</a></b><br>
     <b><a href="https://drive.google.com/file/d/1drsVNkIrjgjySHe3AoM87h4sIFS-1vyH/view">כתיבת שיטות - עזר</a></b><br>
+    <b><a href="https://drive.google.com/file/d/1uJESH8qoza35PoK05BBELhnH3nru_-XU/view">מחסניות זיכרון</a></b><br>
   </p>
   <h2>משימות</h2>
+  <b><a href="https://drive.google.com/file/d/1d3nD3o0lBEWHcJ0VNqC8PuSRAxWl8NWn/view">לומדה [1]</a></b><br>
+  <b><a href="https://drive.google.com/file/d/1uMLHStoO4xOL0HiG3JnWEr7_U1vaVw8k/view">מחרוזות באיטרציה [2]</a></b><br>
+  <b><a href="https://drive.google.com/file/d/1qkDLMZk0rE3kBmPmSsCtkywhdbigc2By/view">מחסניות זיכרון לשיטות [3]</a></b><br>
   <h2>משובים</h2>
+  <b><a href="https://docs.google.com/presentation/d/1Rl9MKarIuiPKKU1bvizLjh6W54KzeYBcDZiMcl48lc8/edit">משוב [1]</a></b><br>
 </p>
