@@ -2,7 +2,7 @@
 <p>ברוכים הבאים לאוסף הפתרונות לתרגולים במדעי המחשב!</p>
 <p>
   <h1>תוכן עניינים</h1>
-  <h4><a href="https://github.com/avivper/ComputerScience#%D7%A4%D7%A8%D7%A7-%D7%90">פרק א</a></h4><br>
+  <h4><a href="https://github.com/avivper/ComputerScience#%D7%A4%D7%A8%D7%A7-%D7%90">פרק א</a></h4>
   <h4><a href="https://github.com/avivper/ComputerScience#%D7%A4%D7%A8%D7%A7-%D7%91">פרק ב</a></h4>
 </p>
 <p style="text-align:center;"> 
