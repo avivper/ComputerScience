@@ -1,11 +1,6 @@
 package EpisodeB;
 
 public class B3 {
-    public static void main(String[] args) {
-        int c = indexOfStringInString("ol" ,"Hello"); // ollhe
-        System.out.println(c);
-    }
-
     //0
     public static String getNames () {
         return ("[4] אביאל + אביב + יהונתן");
@@ -13,7 +8,7 @@ public class B3 {
 
     //1
     public static char lastCharInString (String s) {
-        if (s.isEmpty()) {
+        if (s.length() == 0) {
             return 'X';
         }
 
@@ -96,48 +91,25 @@ public class B3 {
 
     // 9
     public static int indexOfStringInString(String stringToFind, String s) {
-        for (int i = 0; i < s.length(); i++) {
-            for (int j = 0; j < stringToFind.length(); j++) {
-                if (stringToFind.charAt(j) == s.charAt(i)) {
-
+        int index = -1;
+        for (int i = 0; i < s.length() - stringToFind.length(); i++) {
+            if (s.charAt(i) == stringToFind.charAt(0)) {
+                for (int j = 0; j < stringToFind.length(); j++) {
+                    if (s.charAt(i+j) == stringToFind.charAt(j)) {
+                        index = i+j;
+                    }
                 }
             }
         }
-        return -1;
+        return index;
     }
 
-    /*
-        public static int indexOfStringInString(String stringToFind, String s) {
-        for (int i = 0; i < s.length(); i++) {
-            for (int j = 0; j < stringToFind.length(); j++) {
-                if (stringToFind.charAt(j) == s.charAt(i)) {
-                    continue;
-                }
-            }
-        }
-        return -1;
-    }
-     */
-
-    /*
-        public static String eliminateAllCharsFromString (String letters, String s) {
-        for (int i = 0; i < s.length(); i++) {
-            for (int j = 0; j < letters.length(); j++) {
-                if (letters.charAt(j) == s.charAt(i)) {
-                    s = s.substring(0, i) + s.substring(i);
-                }
-            }
+    //10
+    public static String eliminateStringFromString (String stringToCut, String s) {
+        while (s.indexOf(stringToCut) != -1) {
+            s = s.substring(0, s.indexOf(stringToCut)) + s.substring(s.indexOf(stringToCut) + stringToCut.length());
         }
         return s;
     }
-     */
-
-
-    /*
-    //10
-    public static String eliminateStringFromString (String stringToCut, String s){
-    }
-     */
-
 
 }
