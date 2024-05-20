@@ -16,7 +16,7 @@
   </p>
   <h2>משובים</h3>
   <p>
-    <b><a href ="https://docs.google.com/document/d/1cbCG3wZp6EKVxtQ5FxSQyHg1pXAEW8ev6ktQdRbKPrc/edit">משוב כל פרק א</a></b>
+    <b><a href ="https://docs.google.com/document/d/1cbCG3wZp6EKVxtQ5FxSQyHg1pXAEW8ev6ktQdRbKPrc/edit">משוב כל פרק א</a></b><br>
   </p>
 </p>
 
