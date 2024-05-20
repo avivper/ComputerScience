@@ -1,7 +1,7 @@
 <h1 style="text-align:center;">קורס מדעי המחשב</h1>
 <p>ברוכים הבאים לאוסף הפתרונות לתרגולים במדעי המחשב!</p>
 <p style="text-align:center;"> 
-  <h3>פרק א</h3>
+  <h1>פרק א</h1>
   <h2>קריאה</h2>
 <p>
   <a href= "https://drive.google.com/file/d/1D_T6rEhG6G54UmRRnLSxk5hWjCfKHCau/view">כתיבה למשתמש</a>
