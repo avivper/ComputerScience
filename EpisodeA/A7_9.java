@@ -12,7 +12,7 @@ public class A7_9 {
             s += f;
             f += d;
         }
-        System.out.println(s); // This is inaccurate, it should be with graphic message
+        System.out.println(s); // This is inaccurate, it should be with a graphic message
     }
 
     public static void Question8() {
