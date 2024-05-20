@@ -28,6 +28,10 @@
 <p>
   <h1>פרק ב</h1>
   <h2>קריאה</h2>
+  <p>
+    <b><a href="https://docs.google.com/presentation/d/168gNhrAh4C9Apeaa5NFdwyVR24vIFfmaV_iyw531zRk/edit#slide=id.p>כתיבת שיטות</a></b><br>
+    <b><a href="https://drive.google.com/file/d/1drsVNkIrjgjySHe3AoM87h4sIFS-1vyH/view">כתיבת שיטות - עזר</a></b><br>
+  </p>
   <h2>משימות</h2>
   <h2>משובים</h2>
 </p>
