@@ -4,7 +4,8 @@
   <h1>פרק א</h1>
   <h2>קריאה</h3>
 <p>
-  <a href= "https://drive.google.com/file/d/1D_T6rEhG6G54UmRRnLSxk5hWjCfKHCau/view">כתיבה למשתמש</a>
+  <b></b><a href= "https://drive.google.com/file/d/1D_T6rEhG6G54UmRRnLSxk5hWjCfKHCau/view">כתיבה למשתמש</a><br>
+  <b><a href="https://docs.google.com/document/d/1kHPTRFQET7A-fUUbNRSMc4GeV9xbES15POiMqul1aFU/edit">תמצית פרק א</a></b>
 </p>
   <h2>משימות</h3>
   <p>
