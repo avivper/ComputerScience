@@ -7,6 +7,10 @@
 </p>
 <p style="text-align:center;"> 
   <h1>פרק א</h1>
+  <p>
+    <a href="https://drive.google.com/file/d/13eqXO-jXVOyVAMB4nxbDNLFCxsxQdWeY/view">תרגול נוסף</a><br>
+    <a href="https://drive.google.com/file/d/1wGDqRJDwpdA2uGRZFXRxQ3hPGSaWC0nk/view">פיתרון</a><br>
+  </p>
   <h2>קריאה</h2>
 <p>
   <b><a href= "https://drive.google.com/file/d/1D_T6rEhG6G54UmRRnLSxk5hWjCfKHCau/view">כתיבה למשתמש</a></b><br>
