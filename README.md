@@ -9,6 +9,8 @@
   <h2>משימות</h3>
   <p>
     <a href= "https://drive.google.com/file/d/1i4sDSC-VGV6OyUu1PpmMppEBh6eUkJex/view">אחסון ערכים וקריאת ערכים [1 עד 4]</a>
+    <a href= "https://drive.google.com/file/d/1HN4bdVMxvMneLXUZMiXS-VtgYjEbbQkX/view">ביצוע מותנה [5 עד 6]</a>
+    <a href= "https://drive.google.com/file/d/1ojQU-gWkrKmp3BXqwSQlVc2du6T9pAs6/view">ביצוע חוזר [7 עד 9]</a>
   </p>
   <h2>משובים</h3>
   <p>משוב א 1 - 7</p>
