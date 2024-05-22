@@ -1,6 +1,11 @@
 package EpisodeB;
 
 public class B3 {
+    public static void main(String[] args) {
+        int index = indexOfStringInString("בר", "באגם ברבורים וברווזים");
+        System.out.println(index);
+    }
+
     //0
     public static String getNames () {
         return ("[4] אביאל + אביב + יהונתן");
@@ -56,12 +61,15 @@ public class B3 {
 
     //6
     public static String eliminateAllCharsFromString (String letters, String s) {
-        for (int i = 0; i < s.length(); i++) {
-            for (int j = 0; j < letters.length(); j++) {
-                if (letters.charAt(j) == s.charAt(i)) {
-                    s = s.substring(0, i) + s.substring(i);
+        if (letters.length() >= 1 || s.length() >= 1) {
+            for (int i = 0; i < s.length(); i++) {
+                for (int j = 0; j < letters.length(); j++) {
+                    if (letters.charAt(j) == s.charAt(i)) {
+                        s = s.substring(0, i) + s.substring(i);
+                    }
                 }
             }
+            return s;
         }
         return s;
     }
@@ -77,31 +85,35 @@ public class B3 {
     }
 
     // 8
-    public static String reverseWordsInString (String s) {
-        String temp = "";
-        for (int i = 0; i < s.length(); i++) {
+    public static String reverseWordsInString(String s) {
+        String result = "";
+        String word = "";
+        for (int i = s.length() - 1; i >= 0; i--) {
             if (s.charAt(i) == ' ') {
-                temp = s.substring(0, i);
-                s = s.substring(i);
+                result = result + word + " ";
+                word = "";
+            } else {
+                word = s.charAt(i) + word;
             }
         }
-        s = s + " " + temp;
-        return s;
+        result = result + word;
+
+        return result;
     }
+
 
     // 9
     public static int indexOfStringInString(String stringToFind, String s) {
-        int index = -1;
-        for (int i = 0; i < s.length() - stringToFind.length(); i++) {
+        for (int i = 0; i < s.length(); i++) {
             if (s.charAt(i) == stringToFind.charAt(0)) {
                 for (int j = 0; j < stringToFind.length(); j++) {
-                    if (s.charAt(i+j) == stringToFind.charAt(j)) {
-                        index = i+j;
+                    if (s.charAt(i+j) == lastCharInString(stringToFind)) {
+                        return i+j-stringToFind.length()+1;
                     }
                 }
             }
         }
-        return index;
+        return -1;
     }
 
     //10
