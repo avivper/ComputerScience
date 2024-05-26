@@ -46,5 +46,6 @@
   <h2>משובים</h2>
   <p>
     <b><a href="https://docs.google.com/presentation/d/1Rl9MKarIuiPKKU1bvizLjh6W54KzeYBcDZiMcl48lc8/edit">משוב [1]</a></b><br>
+    <b><a href="https://docs.google.com/document/d/14AW35kKOQ_3Z61iMNmW5-EeEVwh-Um-nB_9MthZoCLk/edit">משוב [2]</a></b><br>
   </p>
 </p>
