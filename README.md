@@ -31,11 +31,15 @@
 
 <p>
   <h1>פרק ב</h1>
-  <h2 >קריאה</h2>
+  <h2>קריאה</h2>
   <p>
     <b><a href="https://docs.google.com/presentation/d/168gNhrAh4C9Apeaa5NFdwyVR24vIFfmaV_iyw531zRk/edit#slide=id.p">כתיבת שיטות</a></b><br>
     <b><a href="https://drive.google.com/file/d/1drsVNkIrjgjySHe3AoM87h4sIFS-1vyH/view">כתיבת שיטות - עזר</a></b><br>
     <b><a href="https://drive.google.com/file/d/1uJESH8qoza35PoK05BBELhnH3nru_-XU/view">מחסניות זיכרון</a></b><br>
+  </p>
+  <h2>סרטונים</h2>
+  <p>
+    <b><a href="https://drive.google.com/file/d/13_hnqlT7rgCtVMkGMp1W_QKJvzZItZTA/view">העמסת יתר</b><br>
   </p>
   <h2>משימות</h2>
   <p>
@@ -47,5 +51,13 @@
   <p>
     <b><a href="https://docs.google.com/presentation/d/1Rl9MKarIuiPKKU1bvizLjh6W54KzeYBcDZiMcl48lc8/edit">משוב [1]</a></b><br>
     <b><a href="https://docs.google.com/document/d/14AW35kKOQ_3Z61iMNmW5-EeEVwh-Um-nB_9MthZoCLk/edit">משוב [2]</a></b><br>
+  </p>
+</p>
+
+<p>
+  <h1>פרק ג</h1>
+  <h2>סרטונים</h2>
+  <p>
+    <b><a href="https://drive.google.com/file/d/13_hnqlT7rgCtVMkGMp1W_QKJvzZItZTA/view">כתיבת שיטות רקורסיביות</a></b><br>
   </p>
 </p>
