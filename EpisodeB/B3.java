@@ -2,7 +2,7 @@ package EpisodeB;
 
 public class B3 {
     public static void main(String[] args) {
-        int index = indexOfStringInString("בר", "באגם ברבורים וברווזים");
+        int index = indexOfStringInString(" adada בר", "באגם ברבורים וברווזים");
         System.out.println(index);
     }
 
@@ -33,7 +33,12 @@ public class B3 {
 
     //3
     public static int lastIndexOfCharInString (char c, String s) {
-        return s.lastIndexOf(c);
+        for (int i = s.length() - 1; i >= 0; i--) {
+            if (s.charAt(i) == c) {
+                return i;
+            }
+        }
+        return -1;
     }
 
     //4
@@ -104,11 +109,17 @@ public class B3 {
 
     // 9
     public static int indexOfStringInString(String stringToFind, String s) {
+        if (s.length() == 0 || stringToFind.length() == 0) {
+            return 0;
+        }
+
         for (int i = 0; i < s.length(); i++) {
             if (s.charAt(i) == stringToFind.charAt(0)) {
                 for (int j = 0; j < stringToFind.length(); j++) {
-                    if (s.charAt(i+j) == lastCharInString(stringToFind)) {
-                        return i+j-stringToFind.length()+1;
+                    if (s.charAt(i+j) == stringToFind.charAt(j++)) {
+                        if (s.charAt(i+j) == lastCharInString(stringToFind)) {
+                            return i+j-stringToFind.length()+1;
+                        }
                     }
                 }
             }
