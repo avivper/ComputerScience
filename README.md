@@ -4,6 +4,7 @@
   <h1>תוכן עניינים</h1>
   <h4><a href="https://github.com/avivper/ComputerScience#%D7%A4%D7%A8%D7%A7-%D7%90">פרק א</a></h4>
   <h4><a href="https://github.com/avivper/ComputerScience#%D7%A4%D7%A8%D7%A7-%D7%91">פרק ב</a></h4>
+  <h4><a href="">פרק ג</h4>
 </p>
 <p style="text-align:center;"> 
   <h1>פרק א</h1>
@@ -31,6 +32,10 @@
 
 <p>
   <h1>פרק ב</h1>
+  <p>
+    <b><a href="https://drive.google.com/file/d/1SN6pjH3AXUTFTpdgxGDx8X1plbIG_fVT/view">תירגול נוסף</a></b><br>
+    <b><a href="https://drive.google.com/file/d/1wq4yMSRZiyjwG_h1kT1Q4Cgk-LF2QPCh/view">פתרון</a></b>
+  </p>
   <h2>קריאה</h2>
   <p>
     <b><a href="https://docs.google.com/presentation/d/168gNhrAh4C9Apeaa5NFdwyVR24vIFfmaV_iyw531zRk/edit#slide=id.p">כתיבת שיטות</a></b><br>
@@ -59,5 +64,9 @@
   <h2>סרטונים</h2>
   <p>
     <b><a href="https://drive.google.com/file/d/13_hnqlT7rgCtVMkGMp1W_QKJvzZItZTA/view">כתיבת שיטות רקורסיביות</a></b><br>
+  </p>
+  <h2>מצגות</h2>
+  <p>
+    <b><a href="https://docs.google.com/presentation/d/1ZBfbRs6qP_FWclFdA3KTO3YAoK7yRL3XITBZPTRnjIk/edit"></a>כתיבת שיטות רקורסיביות</b><br>
   </p>
 </p>
