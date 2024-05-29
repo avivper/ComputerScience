@@ -5,6 +5,7 @@
   <h4><a href="https://github.com/avivper/ComputerScience#%D7%A4%D7%A8%D7%A7-%D7%90">פרק א</a></h4>
   <h4><a href="https://github.com/avivper/ComputerScience#%D7%A4%D7%A8%D7%A7-%D7%91">פרק ב</a></h4>
   <h4><a href="https://github.com/avivper/ComputerScience/blob/main/README.md#%D7%A4%D7%A8%D7%A7-%D7%92-1">פרק ג</h4>
+  <h4><a href="">הורדות</a></h4>
 </p>
 <p style="text-align:center;"> 
   <h1>פרק א</h1>
@@ -68,5 +69,12 @@
   <h2>מצגות</h2>
   <p>
     <b><a href="https://docs.google.com/presentation/d/1ZBfbRs6qP_FWclFdA3KTO3YAoK7yRL3XITBZPTRnjIk/edit">כתיבת שיטות רקורסיביות</a></b><br>
+  </p>
+</p>
+
+<p>
+  <h1>הורדות</h1>
+  <p>
+    <b><a href="">סיכומים</a></b><br>
   </p>
 </p>
