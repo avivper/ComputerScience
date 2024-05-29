@@ -5,7 +5,7 @@
   <h4><a href="https://github.com/avivper/ComputerScience#%D7%A4%D7%A8%D7%A7-%D7%90">פרק א</a></h4>
   <h4><a href="https://github.com/avivper/ComputerScience#%D7%A4%D7%A8%D7%A7-%D7%91">פרק ב</a></h4>
   <h4><a href="https://github.com/avivper/ComputerScience/blob/main/README.md#%D7%A4%D7%A8%D7%A7-%D7%92-1">פרק ג</h4>
-  <h4><a href="">הורדות</a></h4>
+  <h4><a href="https://github.com/avivper/ComputerScience/blob/main/README.md#%D7%94%D7%95%D7%A8%D7%93%D7%95%D7%AA-1">הורדות</a></h4>
 </p>
 <p style="text-align:center;"> 
   <h1>פרק א</h1>
