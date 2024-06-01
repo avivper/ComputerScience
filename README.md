@@ -14,19 +14,19 @@
     <a href="https://drive.google.com/file/d/13eqXO-jXVOyVAMB4nxbDNLFCxsxQdWeY/view">תרגול נוסף</a><br>
     <a href="https://drive.google.com/file/d/1wGDqRJDwpdA2uGRZFXRxQ3hPGSaWC0nk/view">פיתרון</a><br>
   </p>
-  <h2>קריאה</h2>
+  <h4>קריאה</h4>
 <p>
   <b><a href= "https://drive.google.com/file/d/1D_T6rEhG6G54UmRRnLSxk5hWjCfKHCau/view">כתיבה למשתמש</a></b><br>
   <b><a href="https://docs.google.com/document/d/1kHPTRFQET7A-fUUbNRSMc4GeV9xbES15POiMqul1aFU/edit">תמצית פרק א</a></b><br>
   <b><a href="https://drive.google.com/file/d/1syZpD_FDo8CaAAgeq2b3Po-eshw0q7iV/view">קוד בדוקס</a></b>
 </p>
-  <h2>משימות</h2>
+  <h4>משימות</h4>
   <p>
     <b><a href= "https://drive.google.com/file/d/1i4sDSC-VGV6OyUu1PpmMppEBh6eUkJex/view">אחסון ערכים וקריאת ערכים [1 עד 4]</a><br>
     <b><a href= "https://drive.google.com/file/d/1HN4bdVMxvMneLXUZMiXS-VtgYjEbbQkX/view">ביצוע מותנה [5 עד 6]</a><br>
     <b><a href= "https://drive.google.com/file/d/1ojQU-gWkrKmp3BXqwSQlVc2du6T9pAs6/view">ביצוע חוזר [7 עד 9]</a><br>
   </p>
-  <h2>משובים</h2>
+  <h4>משובים</h4>
   <p style="text-align:center;">
     <b><a href ="https://docs.google.com/document/d/1cbCG3wZp6EKVxtQ5FxSQyHg1pXAEW8ev6ktQdRbKPrc/edit">משוב כל פרק א</a></b><br>
   </p>
@@ -38,23 +38,23 @@
     <b><a href="https://drive.google.com/file/d/1SN6pjH3AXUTFTpdgxGDx8X1plbIG_fVT/view">תירגול נוסף</a></b><br>
     <b><a href="https://drive.google.com/file/d/1wq4yMSRZiyjwG_h1kT1Q4Cgk-LF2QPCh/view">פתרון</a></b>
   </p>
-  <h2>קריאה</h2>
+  <h4>קריאה</h4>
   <p>
     <b><a href="https://docs.google.com/presentation/d/168gNhrAh4C9Apeaa5NFdwyVR24vIFfmaV_iyw531zRk/edit#slide=id.p">כתיבת שיטות</a></b><br>
     <b><a href="https://drive.google.com/file/d/1drsVNkIrjgjySHe3AoM87h4sIFS-1vyH/view">כתיבת שיטות - עזר</a></b><br>
     <b><a href="https://drive.google.com/file/d/1uJESH8qoza35PoK05BBELhnH3nru_-XU/view">מחסניות זיכרון</a></b><br>
   </p>
-  <h2>סרטונים</h2>
+  <h4>סרטונים</h4>
   <p>
     <b><a href="https://drive.google.com/file/d/13_hnqlT7rgCtVMkGMp1W_QKJvzZItZTA/view">העמסת יתר</b><br>
   </p>
-  <h2>משימות</h2>
+  <h4>משימות</h4>
   <p>
       <b><a href="https://drive.google.com/file/d/1d3nD3o0lBEWHcJ0VNqC8PuSRAxWl8NWn/view">לומדה [1]</a></b><br>
       <b><a href="https://drive.google.com/file/d/1uMLHStoO4xOL0HiG3JnWEr7_U1vaVw8k/view">מחרוזות באיטרציה [2]</a></b><br>
       <b><a href="https://drive.google.com/file/d/1qkDLMZk0rE3kBmPmSsCtkywhdbigc2By/view">מחסניות זיכרון לשיטות [3]</a></b><br>
   </p>
-  <h2>משובים</h2>
+  <h4>משובים</h4>
   <p>
     <b><a href="https://docs.google.com/presentation/d/1Rl9MKarIuiPKKU1bvizLjh6W54KzeYBcDZiMcl48lc8/edit">משוב [1]</a></b><br>
     <b><a href="https://docs.google.com/document/d/14AW35kKOQ_3Z61iMNmW5-EeEVwh-Um-nB_9MthZoCLk/edit">משוב [2]</a></b><br>
@@ -63,11 +63,11 @@
 
 <p>
   <h1>פרק ג</h1>
-  <h2>סרטונים</h2>
+  <h4>סרטונים</h4>
   <p>
     <b><a href="https://drive.google.com/file/d/13_hnqlT7rgCtVMkGMp1W_QKJvzZItZTA/view">כתיבת שיטות רקורסיביות</a></b><br>
   </p>
-  <h2>מצגות</h2>
+  <h4>מצגות</h4>
   <p>
     <b><a href="https://docs.google.com/presentation/d/1ZBfbRs6qP_FWclFdA3KTO3YAoK7yRL3XITBZPTRnjIk/edit">כתיבת שיטות רקורסיביות</a></b><br>
   </p>
