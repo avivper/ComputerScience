@@ -70,10 +70,12 @@
   <h3>סרטונים</h3>
   <p>
     <b><a href="https://drive.google.com/file/d/13_hnqlT7rgCtVMkGMp1W_QKJvzZItZTA/view">כתיבת שיטות רקורסיביות</a></b><br>
+    <b><a href="https://drive.google.com/file/d/1XssZlbmDI7UZTI0ImTVsl7kBtNPe2COQ/view">סוגי רקורסיה</a></b><br>
   </p>
   <h3>מצגות</h3>
   <p>
     <b><a href="https://docs.google.com/presentation/d/1ZBfbRs6qP_FWclFdA3KTO3YAoK7yRL3XITBZPTRnjIk/edit">כתיבת שיטות רקורסיביות</a></b><br>
+    <b><a href="https://docs.google.com/presentation/d/1HF3RwVx5yPQ9U4Iygfl-fokgGZ5N1eG1wlxAVqhUlOU/edit"></a>סוגי רקורסיה</b><br>
   </p>
 </p>
 
