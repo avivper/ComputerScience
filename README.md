@@ -75,7 +75,7 @@
   <h3>מצגות</h3>
   <p>
     <b><a href="https://docs.google.com/presentation/d/1ZBfbRs6qP_FWclFdA3KTO3YAoK7yRL3XITBZPTRnjIk/edit">כתיבת שיטות רקורסיביות</a></b><br>
-    <b><a href="https://docs.google.com/presentation/d/1HF3RwVx5yPQ9U4Iygfl-fokgGZ5N1eG1wlxAVqhUlOU/edit"></a>סוגי רקורסיה</b><br>
+    <b><a href="https://docs.google.com/presentation/d/1HF3RwVx5yPQ9U4Iygfl-fokgGZ5N1eG1wlxAVqhUlOU/edit">סוגי רקורסיה</a></b><br>
   </p>
 </p>
 
