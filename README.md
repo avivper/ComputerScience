@@ -90,6 +90,29 @@
 
 <p>
   <h1>המילון</h1>
+  <p>
+    <p>
+        <h3>Execptions</h3>
+        <p>
+            <b>SIOOBE</b><br>
+            <p>String Index Out of Bounds Execption</p><br>
+            <p>פנייה או כניסה לתו שאינו קיים במחרוזת</p><br>
+            <br>
+            <b>NPE</b><br>
+            <p>Null Pointer Execption</p><br>
+            <p>ניסיון פנייה למקום לא קיים</p><br>
+            <br>
+        </p>
+        <h3>הגדרות</h3>
+        <p>
+            <b>DRY</b>
+            <p>Don't repeat yourself</p>
+            <p>כתיבת אותו קוד מספר פעמים</p>
+            <b>WET</b>
+            <p>We Enjoy Typing</p>
+        </p>
+    </p>
+  </p>
 </p>
 
 <p>
