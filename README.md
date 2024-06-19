@@ -88,13 +88,19 @@
   </p>
 </p>
 
-<p>
+<div align="right">
     <h1>המילון</h1>
     <p>
         <h3>שגיאות</h3>
+            <h4>String Index Out of Bounds Execption</h4>
+            <div align="right">
+                קיצור: SIOOBE
+                תיאור: פנייה או כניסה לתו שאינו קיים במחרוזת
+            </div>
 
-       
-</p>
+</div>
+
+
 <p>
   <h1>הורדות</h1>
   <p>
