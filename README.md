@@ -93,32 +93,7 @@
     <p>
         <h3>שגיאות</h3>
 
-        <div align="right">
-            <h4>String Index Out of Bounds Execption</h4>
-            <div align="right">
-                קיצור: SIOOBE
-                תיאור: פנייה או כניסה לתו שאינו קיים במחרוזת
-            </div>
-
-        <div align="right">
-                <h4>Null Pointer Execption</h4>
-                <div align="right">
-                    קיצור: NPE
-                    תיאור: ניסיון פנייה למקום לא קיים
-        </div>
-
-        <h3>הגדרות</h3>
-        <p>
-            <div align="right">
-                <h4>Don't Repeat yourself</h4>
-                <div align="right">
-                    קיצור: DRY
-                    תיאור: כתיבת אותו קוד מספר פעמים
-                </div>
-            </div>
-        </p>
-        </div>
-    </p>
+       
 </p>
 <p>
   <h1>הורדות</h1>
