@@ -95,6 +95,7 @@
             <h4>String Index Out of Bounds Execption</h4>
             <div align="right">
                 קיצור: SIOOBE
+              <br>
                 תיאור: פנייה או כניסה לתו שאינו קיים במחרוזת
             </div>
 
