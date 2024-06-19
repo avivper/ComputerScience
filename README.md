@@ -1,6 +1,6 @@
 <h1 style="text-align:center;">קורס מדעי המחשב</h1>
 <p>ברוכים הבאים לאוסף הפתרונות לתרגולים במדעי המחשב!<br><br></p>
-<p style="text-align: right;">Snippets - תיקייה שמכילה דוגמאות לכתיבת שיטות, כמו סוגי רקורסיות</p>
+<p style="text-align: right">Snippets - תיקייה שמכילה דוגמאות לכתיבת שיטות, כמו סוגי רקורסיות</p>
 <p>
   <h1>תוכן עניינים</h1>
   <h4><a href="https://github.com/avivper/ComputerScience#%D7%A4%D7%A8%D7%A7-%D7%90">פרק א</a></h4>
