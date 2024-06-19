@@ -92,7 +92,7 @@
   <h1>המילון</h1>
   <p>
     <p>
-        <h3>Execptions</h3>
+        <h3>שגיאות</h3>
         <p>
             <h4>SIOOBE</h4><br>
             <p>String Index Out of Bounds Execption</p><br>
