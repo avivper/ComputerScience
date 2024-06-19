@@ -63,6 +63,9 @@
 
 <p>
   <h1>פרק ג</h1>
+  <p>
+    <b><a href="https://docs.google.com/spreadsheets/d/1yUdvCcnWlDgsMhhxXDFqCMyoJr20MEQtEPGSAf0rUes/edit#gid=289087210&range=J53">תרגול נוסף</a></b><br>
+  </p>
   <h3>קריאה</h3>
   <p>
     <b><a href="https://drive.google.com/file/d/1OMyVAmqcx18F2VjZCaz7ykdu5VliUn26/view">זמן ריצה באיטרציה ורקורסיה</a></b><br>
