@@ -65,6 +65,7 @@
   <h1>פרק ג</h1>
   <p>
     <b><a href="https://docs.google.com/spreadsheets/d/1yUdvCcnWlDgsMhhxXDFqCMyoJr20MEQtEPGSAf0rUes/edit#gid=289087210&range=J53">תרגול נוסף</a></b><br>
+    <b><a href="https://drive.google.com/file/d/1Rxf2m2EvuewCQlH5ir6vKlnaxQtQoX0O/view">פתרון</a></b><br>
   </p>
   <h3>קריאה</h3>
   <p>
