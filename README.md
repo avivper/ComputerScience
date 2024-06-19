@@ -80,6 +80,11 @@
     <b><a href="https://docs.google.com/presentation/d/1ZBfbRs6qP_FWclFdA3KTO3YAoK7yRL3XITBZPTRnjIk/edit">כתיבת שיטות רקורסיביות</a></b><br>
     <b><a href="https://docs.google.com/presentation/d/1HF3RwVx5yPQ9U4Iygfl-fokgGZ5N1eG1wlxAVqhUlOU/edit">סוגי רקורסיה</a></b><br>
   </p>
+  <h3>משובים</h3>
+  <p>
+    <b><a href="https://docs.google.com/document/d/1ax2j90rY-rsXXxIxPxOoOv24WkhC3Ud5GD-vocz5iXo/edit">משוב [1]</a></b><br>
+    <b><a href="https://docs.google.com/document/d/1um2s6K4PGt-fWWa9CHdyu0-SfgrYZJ1mzaptIk6rKUo/edit">משוב [2]</a></b><br>
+  </p>
 </p>
 
 <p>
