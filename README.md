@@ -94,7 +94,7 @@
     <p>
         <h3>Execptions</h3>
         <p>
-            <b>SIOOBE</b><br>
+            <h4>SIOOBE</h4><br>
             <p>String Index Out of Bounds Execption</p><br>
             <p>פנייה או כניסה לתו שאינו קיים במחרוזת</p><br>
             <br>
