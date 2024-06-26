@@ -90,6 +90,12 @@
 
 <p>
   <h1>פרק ד</h1>
+  <h3>מצגות</h3>
+  <p>
+    <b><a href ="https://docs.google.com/presentation/d/1sHN3NNou_OF6yzdXwJeyDU2lfskB9RB_PQXHsqweS4o/edit#slide=id.p">
+      מחלקה ואובייקטים
+    </a></b>
+  </p>
 </p>
 
 <p>
