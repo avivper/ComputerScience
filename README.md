@@ -6,6 +6,7 @@
   <h4><a href="https://github.com/avivper/ComputerScience#%D7%A4%D7%A8%D7%A7-%D7%90">פרק א</a></h4>
   <h4><a href="https://github.com/avivper/ComputerScience#%D7%A4%D7%A8%D7%A7-%D7%91">פרק ב</a></h4>
   <h4><a href="https://github.com/avivper/ComputerScience/blob/main/README.md#%D7%A4%D7%A8%D7%A7-%D7%92-1">פרק ג</h4>
+  <h4><a href="">פרק ד</a></h4>
   <h4><a href="https://github.com/avivper/ComputerScience/blob/main/README.md#%D7%94%D7%95%D7%A8%D7%93%D7%95%D7%AA-1">הורדות</a></h4>
 </p>
 <p style="text-align:center;"> 
@@ -110,7 +111,7 @@
   <b><a href="https://drive.google.com/file/d/1dbjmL-lBQKoXs55_iKynLTdct7idOnjD/view">רציונליים [3.3]</a></b><br>
   <b><a href="https://drive.google.com/file/d/1N_ijy2p7YnD4V7_8KtBWXh0y8lHgM2V3/view">רציונליים [3.4]</a></b><br>
   <b><a href="https://drive.google.com/file/d/1HO-5vADdeBt_f1s9HNge7PzPvrrvz_yk/view">רציונליים [3.5]</a></b><br>
-  <b><a href="https://drive.google.com/file/d/1c53TQnSONE2Elj_7ShQK8_H7N-hCz-Gr/view"></a>רווקים ודירות [4]</b><br>
+  <b><a href="https://drive.google.com/file/d/1c53TQnSONE2Elj_7ShQK8_H7N-hCz-Gr/view">רווקים ודירות [4]</a></b><br>
   <h3>סרטונים</h3>
   <b><a href="https://drive.google.com/file/d/1lnzEPkh4z1g9xkg5GUrFTNbKmmC1HApv/view?usp=drive_link">עיקרון הכימוס</a></b><br>
   <h3>משובים</h3>
