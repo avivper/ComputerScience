@@ -100,11 +100,11 @@
     </a></b>
   </p>
   <h3>משימות</h3>
-  <b><a href = "https://drive.google.com/file/d/11kbdQDZapLI25Seb_iKWIRPxV0LGD-TY/view">מלבן [1]</a></b>
-  <b><a href = "https://drive.google.com/file/d/1SIpgza3ro5R-ROH3zD1KkwrihpXkpGe4/view">אובייקטים בזיכרון [2]</a></b>
-  <b><a href = "https://drive.google.com/file/d/1LXdacSn3iRRKaIhSwOljgxml83sU0r5K/view">רציונליים [3]</a></b>
-  <b><a href = "https://drive.google.com/file/d/1bJKfmI370Q15ASgQ3TtDS_MXMYsk7Kbn/view">רציונליים [3.2]</a></b>
-  <b><a href = "https://drive.google.com/file/d/1dbjmL-lBQKoXs55_iKynLTdct7idOnjD/view">רציונליים [3.3]</a></b>
+  <b><a href = "https://drive.google.com/file/d/11kbdQDZapLI25Seb_iKWIRPxV0LGD-TY/view">מלבן [1]</a></b><br>
+  <b><a href = "https://drive.google.com/file/d/1SIpgza3ro5R-ROH3zD1KkwrihpXkpGe4/view">אובייקטים בזיכרון [2]</a></b><br>
+  <b><a href = "https://drive.google.com/file/d/1LXdacSn3iRRKaIhSwOljgxml83sU0r5K/view">רציונליים [3]</a></b><br>
+  <b><a href = "https://drive.google.com/file/d/1bJKfmI370Q15ASgQ3TtDS_MXMYsk7Kbn/view">רציונליים [3.2]</a></b><br>
+  <b><a href = "https://drive.google.com/file/d/1dbjmL-lBQKoXs55_iKynLTdct7idOnjD/view">רציונליים [3.3]</a></b><br>
 </p>
 
 <p>
