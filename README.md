@@ -125,7 +125,7 @@
   <b><a href="https://docs.google.com/presentation/d/1_zdnu4H3TCBD_fP37l4QwPTj0D3RMUT_6YFFnvTo4yQ/edit#slide=id.p">מערכים חד מימדיים</a></b><br>
   <b><a href="https://docs.google.com/presentation/d/1A8AAa3r5DyI-X99xEeaDg3gu-tLeH9CVunhxJ24M7Jo/edit#slide=id.p">מערכים דו מימדיים</a></b><br>
   <h3>משימות</h3>
-  <b><a href="https://drive.google.com/file/d/1K6VVDUPNTUiTdEJayzN9wXwzQiMUHJyE/view"></a>מערכים חד מימדיים [1]</b><br>
+  <b><a href="https://drive.google.com/file/d/1K6VVDUPNTUiTdEJayzN9wXwzQiMUHJyE/view">מערכים חד מימדיים [1]</a></b><br>
 </p>
 
 <p>
