@@ -90,12 +90,21 @@
 
 <p>
   <h1>פרק ד</h1>
+  <h3>קריאה</h3>
+  <b><a href ="https://drive.google.com/file/d/18k4I4PCRkGAZ1fjXVmLrOln2esbua3Is/view?pli=1">מחלקה ואובייקטים - עזרים </a></b>
+  <b><a href = "https://drive.google.com/file/d/1qrcmd94QlVibMYCF9W3x97d7_EGYLQi4/view">אובייקטים בזיכרון</a></b>
   <h3>מצגות</h3>
   <p>
     <b><a href ="https://docs.google.com/presentation/d/1sHN3NNou_OF6yzdXwJeyDU2lfskB9RB_PQXHsqweS4o/edit#slide=id.p">
       מחלקה ואובייקטים
     </a></b>
   </p>
+  <h3>משימות</h3>
+  <b><a href = "https://drive.google.com/file/d/11kbdQDZapLI25Seb_iKWIRPxV0LGD-TY/view">מלבן [1]</a></b>
+  <b><a href = "https://drive.google.com/file/d/1SIpgza3ro5R-ROH3zD1KkwrihpXkpGe4/view">אובייקטים בזיכרון [2]</a></b>
+  <b><a href = "https://drive.google.com/file/d/1LXdacSn3iRRKaIhSwOljgxml83sU0r5K/view">רציונליים [3]</a></b>
+  <b><a href = "https://drive.google.com/file/d/1bJKfmI370Q15ASgQ3TtDS_MXMYsk7Kbn/view">רציונליים [3.2]</a></b>
+  <b><a href = "https://drive.google.com/file/d/1dbjmL-lBQKoXs55_iKynLTdct7idOnjD/view">רציונליים [3.3]</a></b>
 </p>
 
 <p>
