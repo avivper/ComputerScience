@@ -91,8 +91,8 @@
 <p>
   <h1>פרק ד</h1>
   <h3>קריאה</h3>
-  <b><a href ="https://drive.google.com/file/d/18k4I4PCRkGAZ1fjXVmLrOln2esbua3Is/view?pli=1">מחלקה ואובייקטים - עזרים </a></b>
-  <b><a href = "https://drive.google.com/file/d/1qrcmd94QlVibMYCF9W3x97d7_EGYLQi4/view">אובייקטים בזיכרון</a></b>
+  <b><a href ="https://drive.google.com/file/d/18k4I4PCRkGAZ1fjXVmLrOln2esbua3Is/view?pli=1">מחלקה ואובייקטים - עזרים </a></b><br>
+  <b><a href = "https://drive.google.com/file/d/1qrcmd94QlVibMYCF9W3x97d7_EGYLQi4/view">אובייקטים בזיכרון</a></b><br>
   <h3>מצגות</h3>
   <p>
     <b><a href ="https://docs.google.com/presentation/d/1sHN3NNou_OF6yzdXwJeyDU2lfskB9RB_PQXHsqweS4o/edit#slide=id.p">
