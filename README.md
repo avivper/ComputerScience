@@ -20,7 +20,7 @@
   <b><a href="https://docs.google.com/document/d/1kHPTRFQET7A-fUUbNRSMc4GeV9xbES15POiMqul1aFU/edit">תמצית פרק א</a></b><br>
   <b><a href="https://drive.google.com/file/d/1syZpD_FDo8CaAAgeq2b3Po-eshw0q7iV/view">קוד בדוקס</a></b>
 </p>
-  <h3משימות</h3>
+  <h3>משימות</h3>
   <p>
     <b><a href= "https://drive.google.com/file/d/1i4sDSC-VGV6OyUu1PpmMppEBh6eUkJex/view">אחסון ערכים וקריאת ערכים [1 עד 4]</a><br>
     <b><a href= "https://drive.google.com/file/d/1HN4bdVMxvMneLXUZMiXS-VtgYjEbbQkX/view">ביצוע מותנה [5 עד 6]</a><br>
@@ -90,6 +90,8 @@
 
 <p>
   <h1>פרק ד</h1>
+  <b><a href="https://drive.google.com/file/d/1ELgNJ7bZf7JhxK0jrqXWKbbY94GI-610/view">תירגול נוסף</a></b><br>
+  <b><a href="https://drive.google.com/file/d/1RvH91eh_01kuLon0e8XJT17TpJwhEtu8/view">פיתרון</a></b><br>
   <h3>קריאה</h3>
   <b><a href ="https://drive.google.com/file/d/18k4I4PCRkGAZ1fjXVmLrOln2esbua3Is/view?pli=1">מחלקה ואובייקטים - עזרים </a></b><br>
   <b><a href = "https://drive.google.com/file/d/1qrcmd94QlVibMYCF9W3x97d7_EGYLQi4/view">אובייקטים בזיכרון</a></b><br>
@@ -98,13 +100,22 @@
     <b><a href ="https://docs.google.com/presentation/d/1sHN3NNou_OF6yzdXwJeyDU2lfskB9RB_PQXHsqweS4o/edit#slide=id.p">
       מחלקה ואובייקטים
     </a></b>
+    <b><a href="https://docs.google.com/presentation/d/1sjpvVDZlxuR3NVi94SeQ9RTlXFtFSWrocKVBR0aKhPk/edit#slide=id.p"></a><b><br>
   </p>
   <h3>משימות</h3>
-  <b><a href = "https://drive.google.com/file/d/11kbdQDZapLI25Seb_iKWIRPxV0LGD-TY/view">מלבן [1]</a></b><br>
-  <b><a href = "https://drive.google.com/file/d/1SIpgza3ro5R-ROH3zD1KkwrihpXkpGe4/view">אובייקטים בזיכרון [2]</a></b><br>
-  <b><a href = "https://drive.google.com/file/d/1LXdacSn3iRRKaIhSwOljgxml83sU0r5K/view">רציונליים [3]</a></b><br>
-  <b><a href = "https://drive.google.com/file/d/1bJKfmI370Q15ASgQ3TtDS_MXMYsk7Kbn/view">רציונליים [3.2]</a></b><br>
-  <b><a href = "https://drive.google.com/file/d/1dbjmL-lBQKoXs55_iKynLTdct7idOnjD/view">רציונליים [3.3]</a></b><br>
+  <b><a href="https://drive.google.com/file/d/11kbdQDZapLI25Seb_iKWIRPxV0LGD-TY/view">מלבן [1]</a></b><br>
+  <b><a href="https://drive.google.com/file/d/1SIpgza3ro5R-ROH3zD1KkwrihpXkpGe4/view">אובייקטים בזיכרון [2]</a></b><br>
+  <b><a href="https://drive.google.com/file/d/1LXdacSn3iRRKaIhSwOljgxml83sU0r5K/view">רציונליים [3]</a></b><br>
+  <b><a href="https://drive.google.com/file/d/1bJKfmI370Q15ASgQ3TtDS_MXMYsk7Kbn/view">רציונליים [3.2]</a></b><br>
+  <b><a href="https://drive.google.com/file/d/1dbjmL-lBQKoXs55_iKynLTdct7idOnjD/view">רציונליים [3.3]</a></b><br>
+  <b><a href="https://drive.google.com/file/d/1N_ijy2p7YnD4V7_8KtBWXh0y8lHgM2V3/view">רציונליים [3.4]</a></b><br>
+  <b><a href="https://drive.google.com/file/d/1HO-5vADdeBt_f1s9HNge7PzPvrrvz_yk/view">רציונליים [3.5]</a></b><br>
+  <b><a href="https://drive.google.com/file/d/1c53TQnSONE2Elj_7ShQK8_H7N-hCz-Gr/view"></a>רווקים ודירות [4]</b><br>
+  <h3>סרטונים</h3>
+  <b><a href="https://drive.google.com/file/d/1lnzEPkh4z1g9xkg5GUrFTNbKmmC1HApv/view?usp=drive_link">עיקרון הכימוס</a></b><br>
+  <h3>משובים</h3>
+  <b><a href="https://docs.google.com/document/d/1FaRdMISq_Yny5q0gBKrDUPUghNwMlQI4MZzRcgegD8A/edit">משוב רציונליים</a></b><br>
+  <b><a href="https://docs.google.com/document/d/1ahztbxdOQbIpawbnQFEyT9YTvg1qiSGBNW4aBrk5Us8/edit">משוב רווקים ודירות</a></b><br>
 </p>
 
 <p>
