@@ -122,11 +122,19 @@
 
 <p>
   <h1>פרק ה</h1>
+  <b><a href="https://drive.google.com/file/d/15WQFPB1ZfIYtu3rB5Wsv2dzYFNtQqBEl/view">תרגול נוסף</a></b><br>
+  <b><a href="https://drive.google.com/file/d/1mUKCtADu6yhaSCkZ5QB8TfWxaQ8YtIob/view">פתרון</a></b><br>
+  <h3>משובים</h3>
+  <b><a href="https://docs.google.com/presentation/d/1Rd0za5iXOKX87b75C1aV1YgQUoqO0g3CU61qgSiRy0s/edit">משוב כל הפרק</a></b><br>
   <h3>מצגות</h3>
   <b><a href="https://docs.google.com/presentation/d/1_zdnu4H3TCBD_fP37l4QwPTj0D3RMUT_6YFFnvTo4yQ/edit#slide=id.p">מערכים חד מימדיים</a></b><br>
   <b><a href="https://docs.google.com/presentation/d/1A8AAa3r5DyI-X99xEeaDg3gu-tLeH9CVunhxJ24M7Jo/edit#slide=id.p">מערכים דו מימדיים</a></b><br>
   <h3>משימות</h3>
   <b><a href="https://drive.google.com/file/d/1K6VVDUPNTUiTdEJayzN9wXwzQiMUHJyE/view">מערכים חד מימדיים [1]</a></b><br>
+  <b><a href="https://drive.google.com/file/d/1f8ZjhEtpaRP28BQ5vQD1T_0sbTwY1utq/view">מערכים דו מימדיים [2]</a></b><br>
+  <h3>קריאה</h3>
+  <b><a href="https://drive.google.com/file/d/1ZPgR52gj0WaeOtRLN29Qyf8N2RXFAs5n/view">עקרונות בניתוח משאבים א</a></b><br>
+  <b><a href="https://drive.google.com/file/d/1ti2K5Aai95FcqQ9ub81HyBGak-7bPark/view">עקרונות בניתוח משאבים ב</a></b><br>
 </p>
 
 <p>
