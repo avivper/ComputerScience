@@ -2,7 +2,7 @@ package Snippets;
 
 public class Complexity {
     public static void main(String[] args) {
-        // All of here is a instance of time complexity calculations
+        // All of here is an instance of time complexity calculations
         int nlogn = nlogn(256);
         int linearN = linearN(256);
         int factorialN = factorialN(3);
