@@ -48,7 +48,7 @@ public class Complexity {
         return counter;
     }
 
-    public static int exponentialN(int n, int k) {  // O(k^n), k \in R
+    public static int exponentialN(int n, int k) {  // O(k^n), k \in N
         int counter = 1;
         for (int i = 1; i < Math.pow(k, n); i++) {
             counter++;
@@ -56,7 +56,7 @@ public class Complexity {
         return counter;
     }
 
-    public static int polynomialN(int n, int k) {  // O(n^k), k \in R
+    public static int polynomialN(int n, int k) {  // O(n^k), k \in N
         int counter = 1;
         for (int i = 1; i < Math.pow(n, k); i++) {
             counter++;
