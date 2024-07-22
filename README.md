@@ -135,6 +135,20 @@
   <h3>קריאה</h3>
   <b><a href="https://drive.google.com/file/d/1ZPgR52gj0WaeOtRLN29Qyf8N2RXFAs5n/view">עקרונות בניתוח משאבים א</a></b><br>
   <b><a href="https://drive.google.com/file/d/1ti2K5Aai95FcqQ9ub81HyBGak-7bPark/view">עקרונות בניתוח משאבים ב</a></b><br>
+
+
+
+<h1>פרק ו</h1>
+<h3>מצגות</h3>
+<b><a href="https://docs.google.com/presentation/d/17IAovPVOJOog93l6elUazivFaitVDKBN-1UMYYWmkio/edit#slide=id.p">רשימות</a></b><br>
+<h3>משימות</h3>
+<b><a href="https://drive.google.com/file/d/1Gdm9ojgPnZVNxDLqE45PwBN3qa4tIfpM/view">רשימות [1]</a></b><br>
+<b><a href="https://drive.google.com/file/d/1Eyc1fFZRNchJzHnRHZairqt_vlf4Cn3r/view">עצים [2]</a></b><br>
+<b><a href="https://drive.google.com/file/d/1xekc0q3Ru0wcCLCXZ6KnxDStiMLXcvWK/view"></a>עצים [3]</b><br>
+<h3>משובים</h3>
+<b><a href="https://docs.google.com/presentation/d/1RWK5toRYJV8XGIbWQMs23IdvHzv-jZtWfEa6c-aCM6U/edit#slide=id.p1">רשימות [1]</a></b>
+<h3>קריאה</h3>
+<b><a href="https://drive.google.com/file/d/1yeq5xRSEIxhwFi3gmDtScjyvJKolLAmj/view">עצים</a></b>
 </p>
 
 <p>
