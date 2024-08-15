@@ -28,6 +28,7 @@ public class SpecialSeries {
      Question B: Write the method
      ifun (f: N-> N) that will return the same values as rfun without recursion
      */
+
     public int ifun(int n) {
         int result = this.first;
         for (int i = 0; i < n; i++) {
